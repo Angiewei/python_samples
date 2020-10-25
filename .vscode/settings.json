@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "E:\\Program Files\\Python\\Python37\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true
+    // "python.linting.flake8Args": ["--max-line-length=248"],
+    // "python.formatting.provider": "yapf"
+}
